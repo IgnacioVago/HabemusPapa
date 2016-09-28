@@ -1,0 +1,2 @@
+D:\Ignacio Vago\habemusPapa\habemusPapa\bin\Debug\habemusPapa.exe.config
+D:\Ignacio Vago\habemusPapa\habemusPapa\obj\Debug\habemusPapa.csprojResolveAssemblyReference.cache
